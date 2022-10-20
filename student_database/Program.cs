@@ -112,6 +112,7 @@ void KnowNameOfStudent()
         else
         {
             Console.WriteLine("That student is not in this class.");
+            DisplayStudentNames();
         }
     }
 }
@@ -169,6 +170,7 @@ void StudentByNumber()
         else
         {
             Console.WriteLine("You had a Invalid entry please try again");
+            DisplayStudentNames();
         }
     }
 }
