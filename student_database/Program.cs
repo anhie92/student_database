@@ -107,6 +107,7 @@ void KnowNameOfStudent()
                     }
                 }
             }
+            break;
         }
         else
         {
@@ -163,6 +164,7 @@ void StudentByNumber()
                     }
                 }
             }
+            break;
         }
         else
         {
